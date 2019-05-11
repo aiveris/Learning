@@ -2,15 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8993b22d-f65e-474b-b02a-5725414592a6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DuomenuIvedimas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IF2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VeiksmaiSuKintamaisiai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CiklasDo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CiklasFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class/Class1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class/Class2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IF3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Konstruktoriai/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Konstruktoriai/Sub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MetoduTipai/Metodas1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MetoduTipai/Metodas2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RandomNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestVidurkis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vidurkis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/While.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Second.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning/First.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IF.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,39 +29,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Switch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/ewf.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -70,10 +50,25 @@
         <option value="$PROJECT_DIR$/src/First.java" />
         <option value="$PROJECT_DIR$/src/DuomenuIvedimas.java" />
         <option value="$PROJECT_DIR$/src/VeiksmaiSuKintamaisiai.java" />
-        <option value="$PROJECT_DIR$/src/IF.java" />
         <option value="$PROJECT_DIR$/src/IF2.java" />
         <option value="$PROJECT_DIR$/src/Switch.java" />
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/src/While.java" />
+        <option value="$PROJECT_DIR$/src/Class/Class2.java" />
+        <option value="$PROJECT_DIR$/src/Class/Class1.java" />
+        <option value="$PROJECT_DIR$/src/MetoduTipai/Metodas2.java" />
+        <option value="$PROJECT_DIR$/src/MetoduTipai/Metodas1.java" />
+        <option value="$PROJECT_DIR$/src/Konstruktoriai/Sub.java" />
+        <option value="$PROJECT_DIR$/src/Konstruktoriai/Main.java" />
+        <option value="$PROJECT_DIR$/src/IF.java" />
+        <option value="$PROJECT_DIR$/src/IF3.java" />
+        <option value="$PROJECT_DIR$/src/Pamoka16.java" />
+        <option value="$PROJECT_DIR$/src/TestVidurkis.java" />
+        <option value="$PROJECT_DIR$/src/Vidurkis.java" />
+        <option value="$PROJECT_DIR$/src/CiklasFor.java" />
+        <option value="$PROJECT_DIR$/src/CiklasDo.java" />
+        <option value="$PROJECT_DIR$/src/Math.java" />
+        <option value="$PROJECT_DIR$/src/RandomNumber.java" />
       </list>
     </option>
   </component>
@@ -91,6 +86,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -107,19 +104,18 @@
               <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Learning" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="Class" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556800986416" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
@@ -134,62 +130,56 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="IF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IF" />
+  <component name="RunManager" selected="Application.RandomNumber">
+    <configuration name="CiklasDo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CiklasDo" />
       <module name="Learning" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IF2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IF2" />
+    <configuration name="CiklasFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CiklasFor" />
       <module name="Learning" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="Learning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Switch" />
+    <configuration name="RandomNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RandomNumber" />
       <module name="Learning" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VeiksmaiSuKintamaisiai" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VeiksmaiSuKintamaisiai" />
+    <configuration name="TestVidurkis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestVidurkis" />
+      <module name="Learning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Vidurkis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Vidurkis" />
       <module name="Learning" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.VeiksmaiSuKintamaisiai" />
-      <item itemvalue="Application.IF" />
-      <item itemvalue="Application.IF2" />
-      <item itemvalue="Application.Switch" />
-      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.CiklasDo" />
+      <item itemvalue="Application.CiklasFor" />
+      <item itemvalue="Application.RandomNumber" />
+      <item itemvalue="Application.TestVidurkis" />
+      <item itemvalue="Application.Vidurkis" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Switch" />
-        <item itemvalue="Application.IF2" />
-        <item itemvalue="Application.IF" />
-        <item itemvalue="Application.VeiksmaiSuKintamaisiai" />
+        <item itemvalue="Application.RandomNumber" />
+        <item itemvalue="Application.CiklasDo" />
+        <item itemvalue="Application.CiklasFor" />
+        <item itemvalue="Application.Vidurkis" />
+        <item itemvalue="Application.TestVidurkis" />
       </list>
     </recent_temporary>
   </component>
@@ -204,13 +194,20 @@
       <option name="presentableId" value="Default" />
       <updated>1556800597900</updated>
     </task>
+    <task id="LOCAL-00001" summary="send to github">
+      <created>1556977117297</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1556977117297</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15789473" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15222672" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -220,7 +217,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" weight="0.3285968" />
       <window_info anchor="bottom" id="Messages" order="3" weight="0.3285968" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
@@ -236,74 +233,149 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-      <window_info active="true" anchor="right" id="Run" order="8" visible="true" weight="0.31902835" />
+      <window_info anchor="right" id="Run" order="8" weight="0.26639676" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="send to github" />
+    <option name="LAST_COMMIT_MESSAGE" value="send to github" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DuomenuIvedimas.java">
+    <entry file="file://$PROJECT_DIR$/src/Second.java" />
+    <entry file="file://$PROJECT_DIR$/src/First.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/ewf.java" />
+    <entry file="file://$PROJECT_DIR$/src/Class2.form" />
+    <entry file="file://$PROJECT_DIR$/src/Class2.java" />
+    <entry file="file://$PROJECT_DIR$/src/Class/Class2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="100">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Class/Class1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MetoduTipai/Metodas1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MetoduTipai/Metodas2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Konstruktoriai/Sub.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#72#73#0" expanded="true" />
+            <element signature="e#108#109#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Konstruktoriai/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IF3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/VeiksmaiSuKintamaisiai.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
+        <state relative-caret-position="320">
           <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/IF2.java">
+    <entry file="file://$PROJECT_DIR$/src/DuomenuIvedimas.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        <state relative-caret-position="20">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/IF.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Second.java">
+    <entry file="file://$PROJECT_DIR$/src/While.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/First.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#64#65#0" expanded="true" />
-            <element signature="e#113#114#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Switch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+        <state relative-caret-position="100">
+          <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/ewf.java">
+    <entry file="file://$PROJECT_DIR$/src/IF2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pamoka16.java" />
+    <entry file="file://$PROJECT_DIR$/src/TestVidurkis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Vidurkis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CiklasFor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CiklasDo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Math.java" />
+    <entry file="file://$PROJECT_DIR$/src/RandomNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        <state relative-caret-position="120">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
         </state>
       </provider>
     </entry>
