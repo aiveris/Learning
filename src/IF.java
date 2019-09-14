@@ -13,6 +13,7 @@ public class IF {
         }else{
             System.out.println("neturiu ka pasakyti");
 
+
         }
     }
 }
